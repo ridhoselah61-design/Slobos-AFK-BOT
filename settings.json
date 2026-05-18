@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "MinecraftSurviv-Cnj4.aternos.me",
+    "port": 58699,
+    "version": "1.26.21.1"
   },
   "position": {
     "enabled": true,
